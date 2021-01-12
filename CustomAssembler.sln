@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAssembler", "CustomAssembler\CustomAssembler.csproj", "{56BD31EB-7B8D-4820-B955-FB70F9EBDD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BD31EB-7B8D-4820-B955-FB70F9EBDD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BD31EB-7B8D-4820-B955-FB70F9EBDD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BD31EB-7B8D-4820-B955-FB70F9EBDD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BD31EB-7B8D-4820-B955-FB70F9EBDD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2742654-8916-4EDF-8484-9DDC9E029B44}
+	EndGlobalSection
+EndGlobal

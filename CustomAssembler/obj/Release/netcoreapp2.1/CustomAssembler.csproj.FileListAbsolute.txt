@@ -1,0 +1,11 @@
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\CustomAssembler.deps.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\CustomAssembler.runtimeconfig.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\CustomAssembler.runtimeconfig.dev.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\CustomAssembler.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\CustomAssembler.pdb
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.csprojAssemblyReference.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.AssemblyInfo.cs
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\CustomAssembler.pdb

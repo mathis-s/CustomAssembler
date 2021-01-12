@@ -1,0 +1,11 @@
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler.deps.json
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler.runtimeconfig.json
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler.runtimeconfig.dev.json
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler.dll
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/bin/Debug/netcoreapp3.1/CustomAssembler.pdb
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/obj/Debug/netcoreapp3.1/CustomAssembler.csprojAssemblyReference.cache
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/obj/Debug/netcoreapp3.1/CustomAssembler.AssemblyInfoInputs.cache
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/obj/Debug/netcoreapp3.1/CustomAssembler.AssemblyInfo.cs
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/obj/Debug/netcoreapp3.1/CustomAssembler.dll
+/home/m/Zeug/Programming/repos/CustomAssembler/CustomAssembler/obj/Debug/netcoreapp3.1/CustomAssembler.pdb

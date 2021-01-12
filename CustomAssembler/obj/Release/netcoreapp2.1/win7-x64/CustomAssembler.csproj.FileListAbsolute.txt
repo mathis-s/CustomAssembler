@@ -1,0 +1,14 @@
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.exe
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.deps.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.runtimeconfig.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.runtimeconfig.dev.json
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\bin\Release\netcoreapp2.1\win7-x64\CustomAssembler.pdb
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.csprojAssemblyReference.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.AssemblyInfo.cs
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.dll
+C:\Users\M\source\repos\CustomAssembler\CustomAssembler\obj\Release\netcoreapp2.1\win7-x64\CustomAssembler.pdb
